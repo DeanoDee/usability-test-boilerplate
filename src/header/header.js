@@ -6,7 +6,7 @@ return `// ==UserScript==
 // @description  try to take over the world!
 // @author       You
 // @match        *://www.synacor.com/*
-// @grant        none
+// @grant        GM_addStyle
 // ==/UserScript==
 `
 }

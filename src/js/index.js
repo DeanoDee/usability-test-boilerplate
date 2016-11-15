@@ -1,5 +1,5 @@
 const data = {
-    text: "hello world"
+    text: "hello Bob"
 }
 
 $(function() {
