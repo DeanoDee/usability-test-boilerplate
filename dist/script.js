@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        http://synacor.com/*
+// @match        http(s)?://synacor.com/*
 // @grant        none
 // ==/UserScript==
 (function(){'use strict';
