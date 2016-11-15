@@ -8,4 +8,4 @@
 
 3. Click the utilities tab, enter the script url (https://raw.githubusercontent.com/DeanoDee/usability-test-boilerplate/master/dist/script.js) in the url field, and hit import.
 
-4. head to the testing website (http://synacor.com)
+4. head to the testing website (http://www.synacor.com)
