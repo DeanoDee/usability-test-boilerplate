@@ -1,0 +1,21 @@
+{
+  "name": "usability-test-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for building a user script that injects html|css|js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ddigiulio@synacor.com",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-latest": "^6.16.0",
+    "chokidar": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat-util": "^0.5.5"
+  },
+  "dependencies": {
+    "zepto": "^1.2.0"
+  }
+}
